@@ -1,0 +1,25 @@
+{
+  "name": "color-coded-advanced",
+  "version": "1.0.0",
+  "description": "Course materials and exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape workshop1/**/*test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recursivefunk/color-coded-advanced-js.git"
+  },
+  "author": "Johnny Ray Austin <johnny@johnnyray.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/recursivefunk/color-coded-advanced-js/issues"
+  },
+  "homepage": "https://github.com/recursivefunk/color-coded-advanced-js#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  },
+  "dependencies": {
+    "tape": "^4.9.0"
+  }
+}
