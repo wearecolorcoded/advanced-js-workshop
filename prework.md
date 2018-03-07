@@ -23,7 +23,7 @@ $ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh |
 ```
 
 ```
-$ nvm install use 8 // use node 8 or up
+$ nvm install 8 // use 8 use node 8 or up
 ```
 
 ##### [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
