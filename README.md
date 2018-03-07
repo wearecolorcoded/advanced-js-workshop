@@ -33,7 +33,7 @@ We want to make sure we hit the ground running so we're able to make the best of
 - Using async/await effectively
 - Composition over inheritance
 
-### Workshop 2 (This might need to be two workshops)
+### Workshop 2
 
 - HTTP Methods
 - Caching
