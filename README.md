@@ -25,6 +25,7 @@ We want to make sure we hit the ground running so we're able to make the best of
 ### Workshop 1
 
 - Review prework
+- Code reviews
 - Intro to Node.js
 - Functional programming
 - Closures
@@ -38,9 +39,7 @@ We want to make sure we hit the ground running so we're able to make the best of
 - Caching
 - Authentication (Oauth2)
 - Testing (Unit & Integration)
-- Code reviews
-- Intro project
-  - Students can start their project before workshop 3
+- Project intro!
 
 ### Workshop 3
 
