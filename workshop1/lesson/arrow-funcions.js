@@ -3,12 +3,18 @@
 // concise syntax - parens, returns
 
 function doIt(cb) {
-  setTimeout(cb, 500)
+  setTimeout(() => cb('hi!'), 500)
 }
 
-(function() {
+function something() {
+  const self = this
   this.foo = 'bar'
-  doIt(function () => {
-    console.log(this.foo)
+  doIt(function() {
+    console.log(self.foo)
   })
-})()
+}
+
+something()
+
+//(function() {
+//})()
