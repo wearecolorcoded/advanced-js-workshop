@@ -27,6 +27,13 @@ $ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh |
 $ nvm install 8 // use 8 use node 8 or up
 ```
 
+##### JSON Formatter
+
+You'll need to have the ability to inspect JSON objects in the browser install one of these depending on the browser:
+
+[Chrome JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
+[Firefox JSON View](https://addons.mozilla.org/en-US/firefox/addon/jsonview/)
+
 ##### [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
 ```
