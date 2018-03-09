@@ -7,6 +7,7 @@
 -  [Promises](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 -  [Functional Programming](https://medium.com/capital-one-developers/the-wonderful-world-of-functional-programming-5f37359315fd)
 - [I Hate Your Code: Promoting a Culture of Great Feedback](https://medium.com/@recursivefunk/i-hate-your-code-7ed08a0eccfe)
+- [Parsing JSON Interactive Coding](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
 ## Hosting
 
@@ -36,12 +37,4 @@ $ brew install heroku/brew/heroku
 
 ```
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
-##### [Redis](https://redis.io/)
-
-```
-$ brew update
-$ brew install redis
-$ brew tap homebrew/services
-$ brew services start redis
 ```
