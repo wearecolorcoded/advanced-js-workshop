@@ -25,21 +25,19 @@ We want to make sure we hit the ground running so we're able to make the best of
 ### Workshop 1
 
 - Review prework
-- Code reviews
 - Intro to Node.js
 - Functional programming
-- Closures
-- Promises
-- Using async/await effectively
-- Composition over inheritance
 
 ### Workshop 2
 
-- HTTP Methods
-- Caching
-- Authentication (Oauth2)
+- Closures
+- Promises
+- Using async/await effectively
 - Testing (Unit & Integration)
-- Project intro!
+- Composition over inheritance
+- HTTP Methods
+- Intro project
+  - Students can start their project before workshop 3
 
 ### Workshop 3
 
