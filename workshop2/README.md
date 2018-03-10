@@ -1,10 +1,14 @@
 
-## Testing
+## Testing + Promises + Async/Await
 
-## Promises
+- Unit tests
+  - Using Tape
+  - Explore API (assertions)
+- Async tests
+  - Callbacks
+  - Promises
 
-## Async/Await
+## HTTP Methods + Express
 
-## HTTP Methods
-
-## Express
+- HTTP Protocol
+- Common HTTP Methods
